@@ -1,2 +1,2 @@
 # College-Work
-Print("Welcome to my GitHub site!")
+Welcome to my GitHub site!
