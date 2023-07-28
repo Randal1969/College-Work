@@ -4,6 +4,12 @@ class Settings:
     self.screen_width = 1200
     self.screen_height = 800
     self.bg_color = (230, 230, 230)
+    
+    # Alien settings
+    self.alien_speed = 1.0
+    self.fleet_drop_speed = 10
+    # Fleet direction of 1 represnts right; -1 reprsents left.
+    self.fleet_direction = 1
 
     # Ship settings
     self.ship_speed = 1.5
